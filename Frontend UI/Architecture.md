@@ -1,3 +1,5 @@
 Welcome to architecture. here I will talk more about how to build scalable frontend and how to use states and classes properly.
 
 Lets make some changes
+
+# new changes
