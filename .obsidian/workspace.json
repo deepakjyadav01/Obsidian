@@ -143,8 +143,8 @@
               "type": "outline",
               "state": {
                 "file": "Frontend UI/Architecture.md",
-                "followCursor": false,
-                "showSearch": false,
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "0e62e7b1ed85abc9",
+            "id": "7124b4a6697bba26",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -181,13 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e62e7b1ed85abc9",
+  "active": "158b43e0cc11cd09",
   "lastOpenFiles": [
-    "2025-11-29.md",
     "Untitled.base",
+    "Frontend UI/Architecture.md",
+    "2025-11-29.md",
     "Untitled 1.base",
     "Untitled.canvas",
-    "Frontend UI/Architecture.md",
     "Daily_chores/2025-11-12.md",
     "2025-11-19.md",
     "Frontend UI",
