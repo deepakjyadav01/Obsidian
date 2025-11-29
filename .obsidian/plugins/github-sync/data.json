@@ -1,7 +1,7 @@
 {
   "remoteURL": "https://github.com/deepakjyadav01/Obsidian.git",
   "gitLocation": "",
-  "syncinterval": 0,
-  "isSyncOnLoad": true,
+  "syncinterval": 1,
+  "isSyncOnLoad": false,
   "checkStatusOnLoad": true
 }
