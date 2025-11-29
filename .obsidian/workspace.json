@@ -11,10 +11,10 @@
             "id": "158b43e0cc11cd09",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -166,13 +166,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "79cde0fbed1fd56a",
+  "active": "158b43e0cc11cd09",
   "lastOpenFiles": [
     "2025-11-29.md",
+    "Untitled.base",
+    "Untitled 1.base",
     "Untitled.canvas",
     "Frontend UI/Architecture.md",
     "Daily_chores/2025-11-12.md",
-    "Untitled.base",
     "2025-11-19.md",
     "Frontend UI",
     "Daily_chores/2025-11-11.md",
