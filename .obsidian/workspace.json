@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Frontend UI/Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Architecture"
             }
           },
           {
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "158b43e0cc11cd09",
+  "active": "0e62e7b1ed85abc9",
   "lastOpenFiles": [
     "2025-11-29.md",
     "Untitled.base",
