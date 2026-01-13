@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_chores/2026-01-08.md",
+                "file": "Career/Linux/Linux commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-08"
+              "title": "Linux commands"
             }
           }
         ],
@@ -197,8 +197,11 @@
   },
   "active": "b7177702b3407495",
   "lastOpenFiles": [
-    "Daily_chores/Planning.md",
+    "Screenshot 2026-01-13 at 13.09.31.png",
+    "Career/Linux/Linux commands.md",
     "Daily_chores/2026-01-08.md",
+    "Career/Linux",
+    "Daily_chores/Planning.md",
     "Daily_chores/2025-11-12.md",
     "Daily_chores/2025-11-11.md",
     "Frontend UI/Architecture.md",
