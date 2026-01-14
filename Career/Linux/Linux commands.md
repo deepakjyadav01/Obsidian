@@ -1,4 +1,6 @@
 
+
+
 # SSH 
 - Learnt about how to operate an ssh command
 
@@ -55,5 +57,6 @@ other example of dropping all the incoming packets
 ```
 iptables -A INPUT  -j DROP
 ```
+
 
 
