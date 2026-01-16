@@ -2,6 +2,7 @@
 
 
 # SSH 
+
 - Learnt about how to operate an ssh command
 
 ```
@@ -16,8 +17,6 @@ ssh bob@devapp01
 ssh bob@devdb01 
 ```
 3) You will be prompted with password and you are into that device.
-
-![[Screenshot 2026-01-13 at 13.09.31.png]]
 
 
 # IPTABLES
@@ -57,6 +56,7 @@ other example of dropping all the incoming packets
 ```
 iptables -A INPUT  -j DROP
 ```
+
 
 
 
