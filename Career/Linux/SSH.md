@@ -1,6 +1,4 @@
 
-
-
 # SSH 
 
 - Learnt about how to operate an ssh command
@@ -45,10 +43,10 @@ iptables <OPERATION> <CHAIN> \
 1) protocol's available are ssh/http/https -tcp,  DNS- tcp/udp & ping - ICMP
 2) Actions available are ACCEPT , DROP and REJECT.
 
-one example of INPUT accepting all the http on port 443 
+one example of INPUT accepting all the https on port 443 
 
 ```
-iptables -I/-A INPUT -p tcp --dport 443 -j ACCEPT
+iptables -I/-A INPUT -p tcp --dport 443 ESTABLISHED,RELATED -j ACCEPT
 ```
 
 other example of dropping all the incoming packets 
